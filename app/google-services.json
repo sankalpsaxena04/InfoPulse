@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "211251457190",
+    "project_id": "infopulse221",
+    "storage_bucket": "infopulse221.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211251457190:android:29a8dd1a22f8c8b8021867",
+        "android_client_info": {
+          "package_name": "com.sandeveloper.infopulse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIyuyho-c1-atGGvKFSBA06BEdiJxue0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
