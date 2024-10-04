@@ -5,7 +5,8 @@ import android.net.ConnectivityManager
 import android.net.NetworkCapabilities
 import android.os.Build
 
-class Networkstatus {
+class
+Networkstatus {
     companion object {
          fun isNetworkAvailable(context: Context): Boolean {
             val connectivityManager =
